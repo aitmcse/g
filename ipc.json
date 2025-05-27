@@ -1,0 +1,48 @@
+{
+  "Indian Penal Code": {
+    "Chapter II: General Explanations": {
+      "sections": {
+        "Section 6": {
+          "title": "Definitions in the Code to be understood subject to exceptions",
+          "description": "Whenever the word 'offence' is used in the Code, it should be interpreted subject to the general and special exceptions provided."
+        }
+      }
+    },
+    "Chapter VIII: Offences Against Public Tranquility": {
+      "sections": {
+        "Section 141": {
+          "title": "Unlawful assembly",
+          "description": "An assembly of five or more persons is designated an 'unlawful assembly' if the common object is to overawe the government, resist law, or commit offences."
+        },
+        "Section 144": {
+          "title": "Power to issue order in urgent cases of nuisance or apprehended danger",
+          "description": "A District Magistrate, Sub-divisional Magistrate or Executive Magistrate may issue an order in urgent cases to prevent nuisance or danger."
+        }
+      }
+    },
+    "Chapter XVI: Offences Affecting Life": {
+      "sections": {
+        "Section 302": {
+          "title": "Punishment for murder",
+          "description": "Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine."
+        },
+        "Section 304": {
+          "title": "Punishment for culpable homicide not amounting to murder",
+          "description": "Punishment may include imprisonment for life or up to ten years depending on intention and gravity."
+        }
+      }
+    },
+    "Chapter XVII: Offences Against Property": {
+      "sections": {
+        "Section 378": {
+          "title": "Theft",
+          "description": "Whoever, intending to take dishonestly any movable property out of the possession of any person, moves that property, is said to commit theft."
+        },
+        "Section 420": {
+          "title": "Cheating and dishonestly inducing delivery of property",
+          "description": "Whoever cheats and dishonestly induces any person to deliver any property shall be punished with imprisonment which may extend to seven years and fine."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+legal_corpus = [
+  The king ruled the kingdom with wisdom and strength
+The queen and the king lived in a large palace
+A man and a woman were walking through the city
+Paris is the capital of France
+Rome is a major city in Italy
+Tourists travel from Paris to Italy for vacation
+He likes to walk every morning
+She is walking to the market with a basket
+They started to run when it began to rain
+Running and walking are both forms of exercise
+He walked while she ran around the park
+
+The court issued a judgment in favor of the plaintiff
+The judge reviewed the contract before the final hearing
+Legal professionals study clauses in a contract
+The lawyer prepared a case for the court
+The plaintiff presented the evidence to the judge
+A settlement was reached before going to trial
+The law protects the rights of individuals
+The constitution is a fundamental source of law
+She filed a lawsuit after the contract was broken
+
+The doctor diagnosed the patient with pneumonia
+Antibiotics were prescribed to treat the infection
+The nurse monitored the patient’s vital signs
+Painkillers were administered after surgery
+The treatment included rest, hydration, and medicine
+A prescription was written by the physician
+Diagnosis was confirmed with laboratory tests
+Surgery was scheduled for the next morning
+Medical professionals use advanced equipment for treatment
+Vaccines are important to prevent diseases
+He went to the hospital for a routine checkup
+
+The explorer went on an adventure across distant lands
+The treasure was hidden deep inside the jungle
+Mysteries surrounded the ancient ruins they discovered
+A secret map led them to a forgotten kingdom
+The journey was full of challenges and surprises
+
+
+] 
