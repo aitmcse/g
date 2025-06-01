@@ -6,6 +6,7 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseDownload
 
+os.environ["COHERE_API_KEY"] = "HlylPPDyaEVHlnlE7tgbn239xI4Ed5JAYsDFHBI9"
 # Define the scope
 SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
 
